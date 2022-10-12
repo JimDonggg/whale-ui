@@ -1,0 +1,9 @@
+lockfileVersion: 5.4
+
+importers:
+
+  examples:
+    specifiers:
+      whale-ui: workspace:^1.0.0
+    dependencies:
+      whale-ui: link:../packages/components
